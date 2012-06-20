@@ -1,0 +1,35 @@
+Lab01: Basic Python
+
+Exercise 1:
+Variables
+1. The valid variable names are:
+   x, length, NUMBER and Android_phone1
+
+Types
+2. a = False - Boolean   b=3.7 - Float   c = 'Alex' - String   d=7 - Integer   e = 'True' - String   f=17 - Integer   g = '17 - invalid syntax   h = True - Boolean   i = '3.14159' - Float   j = “---add---” - invalid syntax
+
+Exercise 2:
+   With a=False, b=True and c=False
+   b and c - False
+   b or c  - True
+   not a and b - True
+   (a and b) or not c - True
+   not b and not(a or c) - False
+   not((not b or not a) and c) or a - True
+
+Exercise 3:
+Data Types in Arithmetic
+1. 5/2 = 2 
+2. 5/2.0 = 2.5
+3. 5.0/2 = 2.5
+4. 7*(1/2) = 0
+5. 7*(1/2.0) = 3.5
+6. 5**2 = 25
+7. 5.0**2 = 25.0
+8. 5**2.0 = 25.0
+9. 1/3 = 0
+10. 1/3.0 = 0.333333333
+
+
+
+   
